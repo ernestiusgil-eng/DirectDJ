@@ -1,0 +1,7 @@
+{
+  "name": "DirectDJ",
+  "description": "Uma plataforma premium para contratação de DJs em Angola, conectando realizadores de eventos aos melhores talentos musicais com segurança e praticidade.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
